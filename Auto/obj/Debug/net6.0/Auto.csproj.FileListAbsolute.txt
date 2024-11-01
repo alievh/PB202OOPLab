@@ -1,0 +1,15 @@
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\bin\Debug\net6.0\Auto.exe
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\bin\Debug\net6.0\Auto.deps.json
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\bin\Debug\net6.0\Auto.runtimeconfig.json
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\bin\Debug\net6.0\Auto.dll
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\bin\Debug\net6.0\Auto.pdb
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.AssemblyInfoInputs.cache
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.AssemblyInfo.cs
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.csproj.CoreCompileInputs.cache
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.sourcelink.json
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.dll
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\refint\Auto.dll
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.pdb
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\Auto.genruntimeconfig.cache
+C:\Users\hsyna\Desktop\P202OOPLab\Auto\obj\Debug\net6.0\ref\Auto.dll

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\auto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|solutionrelative:auto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\auto\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|solutionrelative:auto\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\auto\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|solutionrelative:auto\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\auto\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|solutionrelative:auto\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\auto\\interfaces\\isound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|solutionrelative:auto\\interfaces\\isound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\auto\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52049F-58FB-44A6-B740-3B759F0E4A2C}|Auto\\Auto.csproj|solutionrelative:auto\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|solutionrelative:zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\zoo\\models\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|solutionrelative:zoo\\models\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\zoo\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|solutionrelative:zoo\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|c:\\users\\hsyna\\desktop\\p202ooplab\\zoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AC034A-EA82-4228-BDAF-3CD4B3B67758}|Zoo\\Zoo.csproj|solutionrelative:zoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISound.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Interfaces\\ISound.cs",
+              "RelativeDocumentMoniker": "Auto\\Interfaces\\ISound.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Interfaces\\ISound.cs",
+              "RelativeToolTip": "Auto\\Interfaces\\ISound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:35:07.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "Auto\\Models\\Train.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Train.cs",
+              "RelativeToolTip": "Auto\\Models\\Train.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:23:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Auto\\Models\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Motorcycle.cs",
+              "RelativeToolTip": "Auto\\Models\\Motorcycle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:23:48.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Auto\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Car.cs",
+              "RelativeToolTip": "Auto\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:23:36.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Auto\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Auto\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:22:13.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Program.cs",
+              "RelativeDocumentMoniker": "Auto\\Program.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Auto\\Program.cs",
+              "RelativeToolTip": "Auto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:21:40.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Leon.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Models\\Leon.cs",
+              "RelativeDocumentMoniker": "Zoo\\Models\\Leon.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Models\\Leon.cs",
+              "RelativeToolTip": "Zoo\\Models\\Leon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:12:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Models\\Elephant.cs",
+              "RelativeDocumentMoniker": "Zoo\\Models\\Elephant.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Models\\Elephant.cs",
+              "RelativeToolTip": "Zoo\\Models\\Elephant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:12:15.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoo\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Models\\Animal.cs",
+              "RelativeToolTip": "Zoo\\Models\\Animal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:10:17.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Program.cs",
+              "RelativeDocumentMoniker": "Zoo\\Program.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\P202OOPLab\\Zoo\\Program.cs",
+              "RelativeToolTip": "Zoo\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:09:47.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

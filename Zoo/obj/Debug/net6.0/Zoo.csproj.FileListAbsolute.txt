@@ -1,0 +1,15 @@
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.sourcelink.json
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+C:\Users\hsyna\Desktop\P202OOPLab\Zoo\obj\Debug\net6.0\ref\Zoo.dll
